@@ -1,0 +1,22 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(48, 37, 54);
+    font-family: sans-serif;
+}
+.div1{
+    margin: auto;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+}
+.div2{
+    width: fit-content;
+    margin: auto;
+    display: flex;
+}
+.div3{
+    margin-left: 50px;
+    color: rgb(231, 231, 231);
+}
