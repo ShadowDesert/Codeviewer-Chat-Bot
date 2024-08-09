@@ -8,7 +8,7 @@ Use our free chatbot with your website.
    ```html
    <script src="assets/src/chatbot.js" defer></script>
    
-2. Visit chatbot key generator and generate a key pair for your chatbot.
+2. Visit https://ccb.codeviewer.cloud and generate a key pair for your chatbot.
 
 3. Replace CCBPassCode = "Your public key"; with your generated public key.
 
