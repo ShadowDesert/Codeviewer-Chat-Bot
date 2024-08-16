@@ -9,8 +9,10 @@ Use our free chatbot with your website.
    <script src="assets/src/chatbot.js" defer></script>
    
 2. Visit https://ccb.codeviewer.cloud and generate a key pair for your chatbot.
+   
+4. Use a super hero's name to generate keys.(Example: superman, batman, ironman)
 
-3. Replace CCBPassCode = "Your public key"; with your generated public key.
+5. Replace CCBPassCode = "Your public key"; with your generated public key.
 
 
 ## How to Use Chatbot
