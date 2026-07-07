@@ -8,7 +8,7 @@ Use our free chatbot with your website.
    ```html
    <script src="assets/src/chatbot.js" defer></script>
    
-2. Visit https://ccb.codeviewer.cloud and generate a key pair for your chatbot.
+2. Visit https://ccb.ns8.icu and generate a key pair for your chatbot.
    
 4. Use a super hero's name to generate keys.(Example: superman, batman, ironman)
 
